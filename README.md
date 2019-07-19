@@ -1,0 +1,21 @@
+# EatIt
+
+An experiment to learn design differences and implications for different responsive breakpoints while taking the mobile-first design and development approach 
+
+For this, a food ordering app layout was designed in Figma. After that, the design was coded using bootstrap for the smallest screen size first and then design decisions were made to make it look different on the largest screen size.
+
+Work in progress.
+
+Home Screen Wireframes:
+
+Mobile:
+
+![1](https://user-images.githubusercontent.com/35193027/61548449-a50bf380-aa45-11e9-8e8c-814a15992bce.png)
+
+Tablet:
+
+![2](https://user-images.githubusercontent.com/35193027/61548453-a63d2080-aa45-11e9-8c7f-82966be2cc9f.png)
+
+Laptop:
+
+![3](https://user-images.githubusercontent.com/35193027/61548454-a6d5b700-aa45-11e9-92b9-036e5d8afe2c.png)
