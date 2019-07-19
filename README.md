@@ -4,7 +4,11 @@ An experiment to learn design differences and implications for different respons
 
 For this, a food ordering app layout was designed in Figma. After that, the design was coded using bootstrap for the smallest screen size first and then design decisions were made to make it look different on the largest screen size.
 
-Work in progress.
+Work in progress
+
+Figma Board:
+
+![figma](https://user-images.githubusercontent.com/35193027/61549216-65dea200-aa47-11e9-8f43-23dc4863a978.png)
 
 Home Screen Wireframes:
 
