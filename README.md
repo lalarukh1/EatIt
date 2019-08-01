@@ -1,4 +1,4 @@
-# EatIt
+# MealHunt
 
 An experiment to learn design differences and implications for different responsive breakpoints while taking the mobile-first design and development approach 
 
