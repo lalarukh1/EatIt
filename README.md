@@ -23,3 +23,7 @@ Tablet:
 Laptop:
 
 ![3](https://user-images.githubusercontent.com/35193027/61548454-a6d5b700-aa45-11e9-92b9-036e5d8afe2c.png)
+
+Laptop Re-design:
+
+![4](https://user-images.githubusercontent.com/35193027/62283657-edfe7780-b449-11e9-8d8a-9732d6a7095f.png)
