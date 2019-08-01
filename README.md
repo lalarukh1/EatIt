@@ -26,6 +26,6 @@ Laptop:
 
 ![3](https://user-images.githubusercontent.com/35193027/61548454-a6d5b700-aa45-11e9-92b9-036e5d8afe2c.png)
 
-Laptop Re-design:
+Laptop UI Re-factored:
 
 ![4](https://user-images.githubusercontent.com/35193027/62284005-b2b07880-b44a-11e9-826a-14b002f0f837.png)
