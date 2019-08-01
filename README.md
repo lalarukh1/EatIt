@@ -14,18 +14,18 @@ Figma Board:
 
 Made only using bootstrap classes  without any custom css to observe how the implementation of classes differentiate for mobile and laptop.
 
-Mobile:
+<h5>Mobile:</h5>
 
 ![1](https://user-images.githubusercontent.com/35193027/61548449-a50bf380-aa45-11e9-8e8c-814a15992bce.png)
 
-Tablet:
+<h5>Tablet:</h5>
 
 ![2](https://user-images.githubusercontent.com/35193027/61548453-a63d2080-aa45-11e9-8c7f-82966be2cc9f.png)
 
-Laptop:
+<h5>Laptop:</h5>
 
 ![3](https://user-images.githubusercontent.com/35193027/61548454-a6d5b700-aa45-11e9-92b9-036e5d8afe2c.png)
 
-Laptop UI Re-factored:
+<h5>Laptop UI Re-factored:</h5>
 
 ![4](https://user-images.githubusercontent.com/35193027/62284005-b2b07880-b44a-11e9-826a-14b002f0f837.png)
