@@ -10,29 +10,58 @@
     </head>
     <body>
         <div class="container-fluid">
+            <div class="row justify-content-between d-none d-lg-flex">
+                <div class="col-3 p-2 pl-4 justify-content-start">
+                    <div class="d-flex align-items-center">Logo</div>
+                </div>
+                <div class="col-9 justify-content-end">
+                    <ul class="nav justify-content-end mx-3">
+                        <li class="nav-item">
+                            <h6 class="px-3 pb-1 pt-2 d-flex align-items-center">
+                                <img src="https://img.icons8.com/ios/15/000000/user.png">
+                                <span class="p-1">Profile</span>
+                            </h6>
+                        </li>
+                        <li class="nav-item">
+                            <h6 class="px-3 pb-1 pt-2 d-flex align-items-center">
+                                <img src="https://img.icons8.com/ios/15/000000/settings.png">
+                                <span class="p-1">Settings</span>
+                            </h6>
+                        </li>
+                        <li class="nav-item">
+                            <h6 class="px-3 pb-1 pt-2 d-flex align-items-center">
+                                <img src="https://img.icons8.com/ios/15/000000/user.png">
+                                <span class="p-1">Restaurants</span>
+                            </h6>
+                        </li>
+                    </ul></div>
+
+            </div>
             <div class="row">
                 <div class="col m-0 p-0">
-                    <img src="https://via.placeholder.com/425x200">
+                    <img src="https://via.placeholder.com/1440x200">
                 </div>
             </div>
-            <div class="row mt-n3">
+            <div class="row mt-n3 mt-lg-5">
                 <div class="col m-0 p-0">
                     <div class="form">
-                        <div class="form-group mx-3">
-                            <input type="text" class="form-control" placeholder="Enter postcode">
+                        <div class="form-group justify-content-center">
+                            <div class="col-md-12 col-lg-4 offset-lg-4">
+                                <input type="text" class="form-control" placeholder="Enter postcode">
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
-            <section class="section my-4">
+            <section class="section my-4 my-lg-3">
                 <div class="row">
                     <div class="col text-center">
-                        <h3 class="h3 py-4">Choose Your Dietary Requirement</h3>
+                        <h3 class="h3 py-4 py-lg-1">Choose Your Dietary Requirement</h3>
                     </div>
                 </div>
                 <div class="row py-2">
-                    <div class="col text-right">
-                        <div class="logo border rounded d-inline-block px-3 pt-2 m-2">
+                    <div class="col text-right ">
+                        <div class="logo border rounded d-inline-block px-3 pt-2 m-2 px-lg-5">
                         <svg width="50" height="50" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                             <rect width="50" height="50" fill="url(#pattern0)"/>
                             <defs>
@@ -46,7 +75,7 @@
                         </div>
                     </div>
                     <div class="col">
-                        <div class="logo border rounded d-inline-block px-3 pt-2 m-2">
+                        <div class="logo border rounded d-inline-block px-3 pt-2 m-2 px-lg-5">
                             <img src="https://img.icons8.com/ios/50/000000/natural-food.png">
                             <p class="py-1 text-center m-0">Veg</p>
                         </div>
@@ -54,13 +83,13 @@
                 </div>
                 <div class="row py-2">
                     <div class="col text-right">
-                        <div class="logo border rounded d-inline-block px-3 pt-2 m-2">
+                        <div class="logo border rounded d-inline-block px-3 pt-2 m-2 px-lg-5">
                             <img src="https://img.icons8.com/ios/50/000000/leaf.png">
                             <p class="py-1 text-center m-0">Vegan</p>
                         </div>
                     </div>
                     <div class="col">
-                        <div class="logo border rounded d-inline-block px-3 pt-2 m-2">
+                        <div class="logo border rounded d-inline-block px-3 pt-2 m-2 px-lg-5">
                             <img src="https://img.icons8.com/ios/50/000000/healthy-eating.png">
                             <p class="py-1 text-center m-0">Diet</p>
                         </div>
@@ -72,7 +101,7 @@
                     <button type="button" class="btn btn-dark px-5">Search</button>
                 </div>
             </section>
-            <section class="bottom-bar mt-5">
+            <section class="bottom-bar mt-5 d-lg-none">
                 <div class="row border-top p-1">
                     <div class="col text-center">
                         <img src="https://img.icons8.com/ios/25/000000/user.png">
