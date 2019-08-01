@@ -26,4 +26,4 @@ Laptop:
 
 Laptop Re-design:
 
-![4](https://user-images.githubusercontent.com/35193027/62283937-885ebb00-b44a-11e9-84bd-2ddcfb205421.png)
+![4](https://user-images.githubusercontent.com/35193027/62284005-b2b07880-b44a-11e9-826a-14b002f0f837.png)
