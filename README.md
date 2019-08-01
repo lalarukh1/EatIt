@@ -10,7 +10,9 @@ Figma Board:
 
 ![figma](https://user-images.githubusercontent.com/35193027/61549216-65dea200-aa47-11e9-8f43-23dc4863a978.png)
 
-Home Screen Wireframes:
+<h4>Home Screen Wireframes:</h4>
+
+Made only using bootstrap classes  without any custom css to observe how the implementation of classes differentiate for mobile and laptop.
 
 Mobile:
 
